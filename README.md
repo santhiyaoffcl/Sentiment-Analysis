@@ -71,7 +71,7 @@ Add your actual results here (Accuracy, F1 Score)
 
 📁 Project Structure
 sentiment-analysis/
-│
+│ 
 ├── data/                # Dataset files
 ├── model/               # Saved model and vectorizer
 ├── notebooks/           # Exploratory analysis
